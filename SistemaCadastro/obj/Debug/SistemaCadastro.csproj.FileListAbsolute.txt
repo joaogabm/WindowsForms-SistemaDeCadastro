@@ -1,0 +1,10 @@
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.AssemblyReference.cache
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Form1.resources
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.GenerateResource.cache
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\joaog\OneDrive\Documentos\João Gabriel\VSCode\C#\Udemy\SistemaCadastro\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
